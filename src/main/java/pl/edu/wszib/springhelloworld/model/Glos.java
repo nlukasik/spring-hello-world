@@ -6,6 +6,6 @@ public enum Glos {
     BURGER,
     TACO,
     KEBAB,
-    SCHABOWE
+    SCHABOWE;
 
 }
