@@ -8,7 +8,7 @@ public class Malgosia extends Dziecko {
 
     @Override
     public void odpakuj() {
-        if(!(zabawka instanceof Miś)) {
+        if(!(zabawka instanceof Mis)) {
             throw new RuntimeException("Chciałam Misia");
         }
     }

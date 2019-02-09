@@ -10,5 +10,7 @@ public class SpringHelloWorldApplication {
 		SpringApplication.run(SpringHelloWorldApplication.class, args);
 	}
 
+
+
 }
 
