@@ -2,6 +2,9 @@ package pl.edu.wszib.springhelloworld.model;
 
 public class Karoseria {
 
-    private Drzwi drzwi = new Drzwi();
+    private Drzwi drzwi;
 
+    public Karoseria(Drzwi drzwi) {
+        this.drzwi = drzwi;
+    }
 }
